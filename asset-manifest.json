@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/textMastery/static/css/main.879c9cf0.css",
+    "main.js": "/textMastery/static/js/main.88f18f82.js",
+    "static/js/787.719ec76d.chunk.js": "/textMastery/static/js/787.719ec76d.chunk.js",
+    "index.html": "/textMastery/index.html",
+    "main.879c9cf0.css.map": "/textMastery/static/css/main.879c9cf0.css.map",
+    "main.88f18f82.js.map": "/textMastery/static/js/main.88f18f82.js.map",
+    "787.719ec76d.chunk.js.map": "/textMastery/static/js/787.719ec76d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.879c9cf0.css",
+    "static/js/main.88f18f82.js"
+  ]
+}
